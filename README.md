@@ -1,5 +1,4 @@
-A Simple Comparaison between Spring Boot and ASP.NET
- A Quick Comparaison Between Spring Boot and ASP.NET
+A Quick Comparaison Between Spring Boot and ASP.NET
  
  
  Feature                      | Spring Boot                                          | ASP.NET Core
