@@ -57,7 +57,7 @@ app.MapControllers(); // Enable controller routing
 app.Run();
 
 4) When to Use ASP.NET:
-5) 
+   
 - Building enterprise-grade APIs or microservices.
 - Creating web UIs with Razor Pages or Blazor.
 - Integrating with Microsoft tools (Azure, Identity, etc.).
